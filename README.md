@@ -2,10 +2,6 @@
 
 Designed and developed this clean health paywall interface for my portfolio. Started in Figma, brought it to life with HTML & CSS. A seamless user experience meets clean code.
 
-#Mockup
-
-![LivFit Mockup Post](https://github.com/user-attachments/assets/171a1a30-e31e-498b-b683-fd6f4bade0a2)
-
 #UI
 
-![LivFit Screenshot Post](https://github.com/user-attachments/assets/0cc364da-c885-49f4-92f5-912fdd51993d)
+![LivFit Mockup Post](![Image](https://github.com/user-attachments/assets/9b5baa78-904b-4d7b-9a9b-6064ec1fb108)
